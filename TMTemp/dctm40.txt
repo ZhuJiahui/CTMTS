@@ -1,0 +1,137 @@
+8
+case1
+0.0774911025955 0.0365181671438
+This time: 2.49625268765
+Segment 425 Completed.
+11
+case1
+0.0906931091098 0.0407188061763
+This time: 4.08888866082
+Segment 426 Completed.
+10
+case1
+0.0909846759638 0.0424600595441
+This time: 5.08895216372
+Segment 427 Completed.
+11
+case1
+0.0914393428267 0.040794164826
+This time: 5.29090227995
+Segment 428 Completed.
+11
+case2
+case21
+empty_number 9
+This time: 5.24805514361
+Segment 429 Completed.
+10
+case1
+0.0876190861067 0.0401041722608
+This time: 3.01605019679
+Segment 430 Completed.
+11
+case2
+case22
+empty_number 9
+This time: 5.4035564188
+Segment 431 Completed.
+11
+case1
+0.0914256928157 0.0421373428187
+This time: 5.46778639165
+Segment 432 Completed.
+11
+case2
+case21
+empty_number 10
+This time: 5.47010264377
+Segment 433 Completed.
+12
+case1
+0.093361654205 0.0444253408489
+This time: 5.45869393143
+Segment 434 Completed.
+11
+case2
+case21
+empty_number 11
+This time: 5.47834904014
+Segment 435 Completed.
+11
+case1
+0.0910989518726 0.0465122161392
+This time: 4.01428943466
+Segment 436 Completed.
+11
+case2
+case21
+empty_number 11
+This time: 5.51460855275
+Segment 437 Completed.
+11
+case1
+0.0907807170848 0.0484216518528
+This time: 3.97721079883
+Segment 438 Completed.
+12
+case2
+case22
+empty_number 12
+This time: 5.49373245652
+Segment 439 Completed.
+10
+case1
+0.0880054189298 0.0424240216519
+This time: 3.54278844427
+Segment 440 Completed.
+11
+case2
+case22
+empty_number 11
+This time: 5.19385702483
+Segment 441 Completed.
+11
+case1
+0.090184103041 0.040516896038
+This time: 3.66588111231
+Segment 442 Completed.
+11
+case2
+case21
+empty_number 9
+This time: 4.93243323857
+Segment 443 Completed.
+10
+case1
+0.0868745816157 0.0418836769216
+This time: 3.29239748452
+Segment 444 Completed.
+8
+case2
+case21
+empty_number 8
+This time: 4.45012969986
+Segment 445 Completed.
+2
+case1
+0.0513657369281 0.18968510334
+This time: 1.68030557081
+Segment 446 Completed.
+7
+case2
+case22
+empty_number 5
+This time: 4.08340848912
+Segment 447 Completed.
+11
+case1
+0.0904787103159 0.0448688547389
+This time: 3.74524433862
+Segment 448 Completed.
+1
+case2
+case21
+empty_number 0
+This time: 1.82941806972
+Segment 449 Completed.
+Complete !!!

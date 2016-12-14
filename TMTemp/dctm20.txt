@@ -1,0 +1,137 @@
+4
+case1
+0.136224628146 0.057240565236
+This time: 0.863619511169
+Segment 425 Completed.
+5
+case1
+0.156452309051 0.0588324212514
+This time: 1.99436363683
+Segment 426 Completed.
+5
+case1
+0.155371751981 0.0590192873928
+This time: 2.55694285509
+Segment 427 Completed.
+6
+case1
+0.157651886273 0.057956807081
+This time: 3.27326900084
+Segment 428 Completed.
+5
+case2
+case21
+empty_number 5
+This time: 1.70514418365
+Segment 429 Completed.
+5
+case1
+0.150505867632 0.0580434497374
+This time: 1.32682246899
+Segment 430 Completed.
+5
+case2
+case21
+empty_number 5
+This time: 1.49939608104
+Segment 431 Completed.
+5
+case1
+0.157670179988 0.0581399849649
+This time: 3.59794648309
+Segment 432 Completed.
+6
+case2
+case22
+empty_number 6
+This time: 1.7918814433
+Segment 433 Completed.
+6
+case1
+0.158731722047 0.0574478264899
+This time: 3.54412585376
+Segment 434 Completed.
+6
+case2
+case21
+empty_number 4
+This time: 1.71071511959
+Segment 435 Completed.
+6
+case1
+0.15565920828 0.0574061240763
+This time: 2.19563959604
+Segment 436 Completed.
+6
+case2
+case21
+empty_number 4
+This time: 1.71963182432
+Segment 437 Completed.
+6
+case1
+0.157344687546 0.057395028848
+This time: 2.20199116861
+Segment 438 Completed.
+5
+case2
+case21
+empty_number 4
+This time: 1.57484457826
+Segment 439 Completed.
+5
+case1
+0.155229483297 0.0569544133997
+This time: 1.78103271105
+Segment 440 Completed.
+5
+case2
+case21
+empty_number 5
+This time: 1.52054350782
+Segment 441 Completed.
+5
+case1
+0.150788993668 0.0569073748676
+This time: 1.98194753763
+Segment 442 Completed.
+6
+case2
+case22
+empty_number 6
+This time: 1.57824390757
+Segment 443 Completed.
+5
+case1
+0.148579209068 0.0559419864244
+This time: 1.67425130726
+Segment 444 Completed.
+4
+case2
+case21
+empty_number 4
+This time: 1.20613040288
+Segment 445 Completed.
+1
+case1
+0.0871840032966 0.0698653048197
+This time: 0.44436023718
+Segment 446 Completed.
+4
+case2
+case22
+empty_number 2
+This time: 1.11699799357
+Segment 447 Completed.
+5
+case1
+0.151491839878 0.058855020911
+This time: 1.97223159442
+Segment 448 Completed.
+1
+case2
+case21
+empty_number 0
+This time: 0.52594542343
+Segment 449 Completed.
+Complete !!!
